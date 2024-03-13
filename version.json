@@ -2,6 +2,6 @@
     {
         "type" : "app",
         "latestVersion" : "2.0.0",
-        "minimumVersion" : "1.0.0"
+        "minimumRequiredVersion" : "1.0.0"
     }
 ]
